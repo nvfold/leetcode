@@ -1,0 +1,5 @@
+# Ignore IDES system and congif files
+.idea
+
+# Ignore cmake-build-debug folder
+cmake-build-debug
